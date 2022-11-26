@@ -29,10 +29,10 @@ export default makeStyles((theme) => ({
     padding: theme.spacing(1, 1, 1, 0), paddingLeft: `calc(1em + ${theme.spacing(4)}px)`, transition: theme.transitions.create('width'), width: '100%', [theme.breakpoints.up('md')]: { width: '20ch' },
   },
   btns: {
-    variant:"contained",  float:"right",marginRight: theme.spacing(0),color: 'white',backgroundColor: 'green',
+    variant:"contained",  float:"right",marginRight: theme.spacing(0),color: 'white',backgroundColor: 'black',
   },
   btnsi: {
-    variant:"contained",  float:"right",marginRight: theme.spacing(0),color: 'white',backgroundColor: 'red',
+    variant:"contained",  float:"right",marginRight: theme.spacing(0),color: 'white',backgroundColor: 'black',
   },
   liod: {
     variant:"contained",  float:"right",marginRight: theme.spacing(0),marginLeft: theme.spacing(75),color: 'white',backgroundColor: 'green',borderRadius: '16px',padding: '5px',margin: '6px',
