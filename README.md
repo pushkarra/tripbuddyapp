@@ -10,5 +10,9 @@ The main problem is that offline system does not provide useful information for 
 Proposed Solution: -
 The proposed application was designed and implemented by the React and google map API. The proposed tourism system will be able to provide the tourists with recommendations for places to visit based on their preferences. TripBuddy is an advanced Travel Companion Application using Google Maps. With Geolocation, Google Maps API, Searching for places, Fetching restaurants, hotels and attractions based on location from specialized Rapid APIs, data filtering and much more.
 
+Landing page: -
+![Main Page](./public/trips1.png)
 
-![Main Page](./public/MainPage.png)
+
+Search Page: -
+![Search Page](./public/trips2.png)
