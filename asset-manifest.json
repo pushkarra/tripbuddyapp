@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.js": "/tripbuddyapp/static/js/main.8d3a91a7.chunk.js",
+    "main.js.map": "/tripbuddyapp/static/js/main.8d3a91a7.chunk.js.map",
+    "runtime-main.js": "/tripbuddyapp/static/js/runtime-main.db3b3531.js",
+    "runtime-main.js.map": "/tripbuddyapp/static/js/runtime-main.db3b3531.js.map",
+    "static/js/2.6be89dd3.chunk.js": "/tripbuddyapp/static/js/2.6be89dd3.chunk.js",
+    "static/js/2.6be89dd3.chunk.js.map": "/tripbuddyapp/static/js/2.6be89dd3.chunk.js.map",
+    "index.html": "/tripbuddyapp/index.html",
+    "static/js/2.6be89dd3.chunk.js.LICENSE.txt": "/tripbuddyapp/static/js/2.6be89dd3.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.db3b3531.js",
+    "static/js/2.6be89dd3.chunk.js",
+    "static/js/main.8d3a91a7.chunk.js"
+  ]
+}
